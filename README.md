@@ -23,7 +23,6 @@ DV,此款效果是剪映的dv分类下DV界面
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E6%BA%B6%E8%A7%A3.gif)
 
 眨眼
-
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E7%9C%A8%E7%9C%BC.gif)
 
 
