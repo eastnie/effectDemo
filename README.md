@@ -1,5 +1,5 @@
 # effectDemo
-display the effects made by me
+部分特效展示
 
 色差
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg)
