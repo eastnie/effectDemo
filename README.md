@@ -15,12 +15,15 @@ DV,此款效果是剪映的dv分类下DV界面
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/q1f2c-758tm.gif)
 
 叠化
+
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E5%8F%A0%E5%8C%96.gif)
 
 溶解
+
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E6%BA%B6%E8%A7%A3.gif)
 
 眨眼
+
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E7%9C%A8%E7%9C%BC.gif)
 
 
