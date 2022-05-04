@@ -14,23 +14,22 @@ DV,此款效果是剪映的dv分类下DV界面
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/q1f2c-758tm.gif)
 
 
-水滴  
+水滴    
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/ripple.gif)
 
-放大 
+放大  
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/large.gif)
 
-方形放大  
+方形放大    
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/fangLarge.gif)
 
-圆形放大
+圆形放大  
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/circleLarge.gif)
 
 
 
 
-转场特效：
-
+转场特效:  
 叠化  
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E5%8F%A0%E5%8C%96.gif)
 
