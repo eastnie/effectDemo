@@ -10,16 +10,16 @@
 留色圆  
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/92c64e1810f47b62f0d1cf43ea87c5e.jpg" width="500">
 
-留色圆  
+留色方 
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/liuseFang.jpg" width="500">
 
 DV,此款效果是剪映的dv分类下DV界面   
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/q1f2c-758tm.gif" width="500">
 
-留色圆  
-<img src="https://github.com/eastnie/effectDemo/blob/main/resource/spilt.jpg" width="500">
+分屏  
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/spilt.png" width="500">
 
-留色圆  
+环形棱镜 
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/prism.jpg" width="500">
 
 水滴    
