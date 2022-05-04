@@ -2,7 +2,7 @@
 部分特效展示
 
 色差
-![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg)
+![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg, width = 100px)
 
 动感模糊
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/4981ca395d6c4cd05fb8058f8ce0088.jpg)
