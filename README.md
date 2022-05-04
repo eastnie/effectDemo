@@ -2,7 +2,7 @@
 部分特效展示
 
 色差
-<div align=center><img width="150" height="150" src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg"/></div>
+<div align=center><img width="200" src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" alt="色差"/></div>
 #<img src = "https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" width="100")
 #![image](https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg, width="100")
 
