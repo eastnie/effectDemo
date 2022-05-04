@@ -1,13 +1,11 @@
 # effectDemo
 部分特效展示
 
-色差
-<div align=center><img width="500" src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" alt="色差"/></div>
-
-<img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" width="150" height="200" alt="图片描述文字"/>
+色差  
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" width="500">
 
 动感模糊
-![image](https://github.com/eastnie/effectDemo/blob/main/resource/4981ca395d6c4cd05fb8058f8ce0088.jpg)
+<img src= "https://github.com/eastnie/effectDemo/blob/main/resource/4981ca395d6c4cd05fb8058f8ce0088.jpg" width="500)
 
 留色圆
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/92c64e1810f47b62f0d1cf43ea87c5e.jpg)
