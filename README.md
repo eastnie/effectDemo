@@ -5,13 +5,13 @@
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" width="500">
 
 动感模糊
-<img src= "https://github.com/eastnie/effectDemo/blob/main/resource/4981ca395d6c4cd05fb8058f8ce0088.jpg" width="500)
+<img src= "https://github.com/eastnie/effectDemo/blob/main/resource/4981ca395d6c4cd05fb8058f8ce0088.jpg" width="500")
 
 留色圆
 ![image](https://github.com/eastnie/effectDemo/blob/main/resource/92c64e1810f47b62f0d1cf43ea87c5e.jpg)
 
 DV,此款效果是剪映的dv分类下DV界面  
-![image](https://github.com/eastnie/effectDemo/blob/main/resource/q1f2c-758tm.gif)
+<img src= "https://github.com/eastnie/effectDemo/blob/main/resource/q1f2c-758tm.gif", width="500">
 
 
 水滴    
