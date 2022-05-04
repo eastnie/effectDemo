@@ -50,6 +50,13 @@ DV,此款效果是剪映的dv分类下DV界面
 眨眼  
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E7%9C%A8%E7%9C%BC.gif" width="500">
 
+左移  
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/left.gif" width="500">
+
+上移  
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/up.gif" width="500">
+
+
 
 
 
