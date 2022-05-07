@@ -1,6 +1,9 @@
 # effectDemo
 部分特效展示
 
+形变  
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/moon.jpg" width="500">
+
 色差  
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E8%89%B2%E5%B7%AE.jpg" width="500">
 
