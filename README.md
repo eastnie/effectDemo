@@ -43,8 +43,8 @@ DV,此款效果是剪映的dv分类下DV界面
 
 
 
-转场特效:  
-方块随机转场 
+转场特效:    
+方块随机转场   
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/tile.gif" width="500">
 
 叠化  
