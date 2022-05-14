@@ -48,19 +48,31 @@ DV,此款效果是剪映的dv分类下DV界面
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/tile.gif" width="500">
 
 叠化  
-<img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E5%8F%A0%E5%8C%96.gif" width="500">
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/diehua.gif" width="500">
 
 溶解  
-<img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E6%BA%B6%E8%A7%A3.gif" width="500">
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/rongjie.gif" width="500">
 
 眨眼  
-<img src="https://github.com/eastnie/effectDemo/blob/main/resource/%E7%9C%A8%E7%9C%BC.gif" width="500">
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/wink.gif" width="500">
 
 左移  
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/left.gif" width="500">
 
 上移  
 <img src="https://github.com/eastnie/effectDemo/blob/main/resource/up.gif" width="500">
+
+右移   
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/right.gif" width="500">
+
+下移   
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/down.gif" width="500">
+
+模糊    
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/mohu.gif" width="500">
+
+闪白   
+<img src="https://github.com/eastnie/effectDemo/blob/main/resource/shanbai.gif" width="500">
 
 
 
